@@ -3,5 +3,5 @@ Hi, I'm Ricardo.Zhou 👋
 
 - 🍻 Master of _Software Engineering_ at 🇨🇳 NUAA.
 - ⚡ I am a Software Engineer at Unity China.
-- ⚡ Golang / Python / F Sharp /TypeScript.
-- 🏃 Reading / Music / Movie / Table Tennis.
+- ⚡ Golang / Python / F# / React /Rust.
+- 🏃 Reading / Music / Movie.
